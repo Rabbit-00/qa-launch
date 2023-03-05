@@ -1,0 +1,32 @@
+.Footer-wrapper {
+    background-color: #555555;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+.Footer {
+    height: 50px;
+    width: 90%;
+    align-self: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #FFFFFF;
+    font-size: 12px;
+    font-family: 'Montserrat Light Italic', sans-serif;
+}
+
+
+.slogan {
+    margin-left: 0;
+    margin-right: 30vw;
+    font-size: 16px;
+}
+
+.links {
+    margin-right: 0;
+    width: 70px;
+    display: flex;
+    justify-content: space-between;
+}
