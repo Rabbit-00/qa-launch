@@ -1,0 +1,47 @@
+.header-wrapper {
+    background-color: #2A6CAB;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+.Header {
+    height: 50px;
+    width: 95%;
+    align-self: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+.logo-block {
+    width: 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 0;
+}
+
+.name {
+    font-size: 18px;
+    font-family: 'Montserrat Aleternates Bold Italic', sans-serif;
+}
+
+.profile-block {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 0;
+}
+
+.name-block {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 40px;
+    align-items: flex-end;
+    padding-right: 15px;
+    font-family: 'Montserrat Italic', sans-serif;
+    font-size: 16px;
+}
