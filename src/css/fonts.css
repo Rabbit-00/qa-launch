@@ -109,3 +109,11 @@
   font-weight: 100;
   font-style: italic;
 }
+
+@font-face {
+  font-family: "Montserrat Aleternates Bold Italic";
+  src: url("../fonts/montserrat-alternates/MontserratAlternates-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+}
+
